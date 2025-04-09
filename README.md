@@ -6,7 +6,7 @@
 
 ---
 
-#Features
+###Features
 
 - Works on **Linux** and **Windows**
 - Scans:
@@ -18,8 +18,8 @@
 
 ---
 
-#Usage
+###Usage
 
-#Start the server:
+###Start the server:
 ```bash
 python3 hivemind_server.py
